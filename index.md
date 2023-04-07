@@ -1,6 +1,6 @@
 # Test Project
 
-This is a great place to start making your documentation!
+This is a great place to start making your documentation! :rocket: 
 
 You should link to a couple of pages:
 
